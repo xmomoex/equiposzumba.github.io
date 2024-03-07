@@ -1,0 +1,8 @@
+.header {
+  background: url(../../public/RB.jpg);
+  background-size: cover;
+  padding: 60px;
+}
+.header .title {
+  color: black;
+}
