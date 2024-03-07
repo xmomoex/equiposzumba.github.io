@@ -1,2 +1,0 @@
-﻿# equiposzumba.github.io
- # lepi
